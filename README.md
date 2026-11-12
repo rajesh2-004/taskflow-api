@@ -18,3 +18,24 @@ application built using Python and FastAPI.
 - PostgreSQL
 - Git
 - Docker
+
+## Project Structure
+
+taskflow-api/
+│
+├── README.md
+├── .gitignore
+│
+└── app/
+    ├── main.py
+    ├── models/
+    ├── schemas/
+    ├── routes/
+    └── services/
+
+## Learning Objectives
+
+- Learn REST API development.
+- Understand authentication.
+- Implement authorization.
+- Learn Docker.
